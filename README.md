@@ -4,30 +4,30 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 Solved the following queries:
 
-Select Data that we are going to be starting with
+1.Select Data that we are going to be starting with
 
-Total Cases vs Total Deaths (Shows likelihood of dying if you contract covid in your country)
+2.Total Cases vs Total Deaths (Shows likelihood of dying if you contract covid in your country)
 
-Total Cases vs Population (Shows what percentage of population infected with Covid)
+3.Total Cases vs Population (Shows what percentage of population infected with Covid)
 
-Countries with Highest Infection Rate wrt Population
+4.Countries with Highest Infection Rate wrt Population
 
-Countries with Highest Infection Rate wrt Population (by location)
+5.Countries with Highest Infection Rate wrt Population (by location)
 
-Countries with Highest Infection Rate wrt Population (by income status)
+6.Countries with Highest Infection Rate wrt Population (by income status)
 
-Countries with Highest Death Count per Population
+7.Countries with Highest Death Count per Population
 
-Showing contintents with the highest death count per population
+8.Showing contintents with the highest death count per population
 
-Global Numbers
+9.Global Numbers
 
-Total Population vs Vaccinations (Shows Percentage of Population that has recieved at least one Covid Vaccine)
+10.Total Population vs Vaccinations (Shows Percentage of Population that has recieved at least one Covid Vaccine)
 
-Using CTE to perform Calculation on Partition By in previous query
+11.Using CTE to perform Calculation on Partition By in previous query
 
-Using Temp Table to perform Calculation on Partition By in previous query
+12.Using Temp Table to perform Calculation on Partition By in previous query
 
-Creating View to store data for later visualizations in tableau
+13.Creating View to store data for later visualizations in tableau
 
-Demonstration of percentage of population Infected per Country
+14.Demonstration of percentage of population Infected per Country
