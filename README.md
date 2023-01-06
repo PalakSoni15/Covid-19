@@ -1,5 +1,6 @@
 # Covid-19
 Used Covid-19 dataset for Data Manipulation and Data Visualization
+
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 Solved the following queries:
